@@ -90,10 +90,10 @@ WSGI_APPLICATION = 'buildforge_project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'your-username$buildforge_db',      # e.g., 'ApurbaKumarNath$buildforge_db'
-        'USER': 'your-username',                  # e.g., 'ApurbaKumarNath'
+        'NAME': 'BuildForgeBD$buildforge_db',      # e.g., 'ApurbaKumarNath$buildforge_db'
+        'USER': 'BuildForgeBD',                  # e.g., 'ApurbaKumarNath'
         'PASSWORD': 'YOUR_MYSQL_PASSWORD_HERE',     # The password you set on the Databases tab
-        'HOST': 'your-username.mysql.pythonanywhere-services.com', # The DB hostname
+        'HOST': 'BuildForgeBD.mysql.pythonanywhere-services.com', # The DB hostname
         'PORT': '3306',
     }
 }
