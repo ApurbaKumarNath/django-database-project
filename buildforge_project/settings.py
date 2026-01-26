@@ -26,7 +26,7 @@ DEBUG = False
 
 # This MUST include your PythonAnywhere domain name.
 # Replace 'your-username' with your actual PythonAnywhere username.
-ALLOWED_HOSTS = ['your-username.pythonanywhere.com']
+ALLOWED_HOSTS = ['BuildForgeBD.pythonanywhere.com']
 
 # ==============================================================================
 # APPLICATION DEFINITION
