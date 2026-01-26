@@ -92,7 +92,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'BuildForgeBD$buildforge_db',      # e.g., 'ApurbaKumarNath$buildforge_db'
         'USER': 'BuildForgeBD',                  # e.g., 'ApurbaKumarNath'
-        'PASSWORD': 'YOUR_MYSQL_PASSWORD_HERE',     # The password you set on the Databases tab
+        'PASSWORD': 'ARD_fall2025',     # The password you set on the Databases tab
         'HOST': 'BuildForgeBD.mysql.pythonanywhere-services.com', # The DB hostname
         'PORT': '3306',
     }
