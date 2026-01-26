@@ -1,5 +1,5 @@
 ﻿asgiref==3.11.0
-Django<5.0
+Django==4.2.27
 django-htmx==1.27.0
 mysqlclient==2.2.7
 numpy==2.4.0
@@ -13,4 +13,5 @@ whitenoise==6.11.0
 psycopg2-binary==2.9.10
 gunicorn==21.2.0
 dj-database-url==2.1.0
+
 
